@@ -1,0 +1,5 @@
+the side of the tape closer to the tape roll (i.e. farther away from the camera) is marked at 1-inch intervals.
+heights are marked from estimated camera screen (roughly 0.5 inches from edge of camera, i.e. reflective grayish edge, not black plastic region)
+
+the far side of the second piece of tape (width is slightly more than the inch markers, but significantly less than the first piece)
+is the 0 inch marker (supposed to be center of camera)
