@@ -1,0 +1,23 @@
+4, 1: 293 pixels/1 inch
+4, 2: 323 pixels/1 inch
+4, 3: 316 pixels/1 inch
+4, 4: 312 pixels/1 inch
+8, 1: 291 pixels/2 inches
+8, 2: 285 pixels/2 inches
+14, 1: 311 pixels/4 inches
+14, 2: 310 pixels/4 inches
+21, 1: 264 pixels/5 inches
+21, 2: 268 pixels/5 inches
+27.5, 1: 323 pixels/8 inches
+31.875, 1: 315 pixels/9 inches
+
+4 average: 311 pixels/inch
+8: 144 pixels/inch
+14: 77.625 pixels/inch
+21: 53.2 pixels/inch
+27.5: 40.375 pixels/inch
+31.875: 35 pixels/inch
+
+tuples: (real/pixel, h)
+real = k * h * pixel
+i.e. (real/pixel) * (1/h) = k
